@@ -79,10 +79,8 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 **Time Complexity is O(n^2) .**
 
 Time Complexity is n^2 because here i used Two itarations .
-
+ ![image](https://user-images.githubusercontent.com/75435144/186097124-3de0507a-3ecb-4111-bc9b-b84be3486fa7.png)
 </p>
-  <img src='./Github/Images/BubbleSort.png'>
-   ![image](https://user-images.githubusercontent.com/75435144/186097124-3de0507a-3ecb-4111-bc9b-b84be3486fa7.png)
 
 </div>
 
