@@ -47,8 +47,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" height="32" width="32" src="![image](https://user-images.githubusercontent.com/75435144/186096102-a26283d8-af93-4df0-be23-e82d5177dae0.png)
-"/>
+<img align="left" height="32" width="32" src="![image](https://user-images.githubusercontent.com/75435144/186096819-b1b5990a-2646-4e54-a919-50d1201c3f5e.png)"/>
 
 <img align="left" height="32" width="32" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 
