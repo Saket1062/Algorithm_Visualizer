@@ -47,8 +47,6 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" height="32" width="32" src="![image](https://user-images.githubusercontent.com/75435144/186096819-b1b5990a-2646-4e54-a919-50d1201c3f5e.png)"/>
-
 <img align="left" height="32" width="32" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 
 <img align="left" height="32" width="32" src="https://brandeps.com/icon-download/J/Jss-icon-vector-01.svg" />
@@ -84,6 +82,7 @@ Time Complexity is n^2 because here i used Two itarations .
 
 </p>
   <img src='./Github/Images/BubbleSort.png'>
+   ![image](https://user-images.githubusercontent.com/75435144/186097124-3de0507a-3ecb-4111-bc9b-b84be3486fa7.png)
 
 </div>
 
